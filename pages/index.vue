@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        calendar-of-conscious-life
+        calendar-of-conscious-life111
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
